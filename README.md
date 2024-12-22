@@ -1,5 +1,5 @@
 # Movie-booking-system
-Python Project  for Movie Ticket Booking System with Admin and Customer modules 
+Simple Python Project (Semester 1) showcasing foundational Python concepts while offering a detailed and feature-rich Movie Ticket Booking System with separate Admin and Customer modules.
 ## Movie Booking System
 ## Project Overview
 The Movie Booking System is a command-line-based application that allows cinema admins to manage movies, shows, and bookings, while customers can browse movies, book tickets, and manage their reservations.
