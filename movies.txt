@@ -1,7 +1,0 @@
-Movie ID   | Title                          | Genre             | Language     | Duration   | Ticket Price (PKR)
-301        | The Quantum Paradox            | Science Fiction   | English      | 145 min    | 1200
-302        | Edge of Eternity               | Action            | English      | 140 min    | 1500
-303        | Nebula Rising                  | Adventure         | English      | 135 min    | 1100
-304        | Shadow of the Blade            | Action            | English      | 120 min    | 1400
-305        | Toofan                         | Action            | Urdu         | 130 min    | 850
-306        | Lal Haveli                     | Horror            | Urdu         | 120 min    | 700
